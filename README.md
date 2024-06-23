@@ -1,6 +1,3 @@
-# README
-
-
 ## Hi i'm lubawi nice to meet you 😄
 
 <details>
